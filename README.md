@@ -112,22 +112,6 @@ const karanVerma = {
 
 <br/>
 
-## 🏆 Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=karanAI01&theme=nord&no-frame=true&no-bg=true&margin-w=8&margin-h=8" />
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=karanAI01&theme=react-dark&hide_border=true&color=7dd3fc&line=7dd3fc&point=ffffff&area=true&area_color=7dd3fc" />
-</div>
-
-<br/>
-
 ## 🔗 Connect With Me
 
 <div align="center">
