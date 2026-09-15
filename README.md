@@ -48,7 +48,6 @@ const karanVerma = {
       "Visual Studio",
       "Jupyter Notebook",
       "Google Colab",
-      "Eclipse IDE",
       "Postman",
       "Anaconda",
     ],
