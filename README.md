@@ -56,7 +56,7 @@ const karanVerma = {
 
   launchedProjects: [
     "AI Learning, Assessment & Placement Preparation Platform — NLP-powered quiz generation, adaptive assessments, and personalized career recommendations",
-    "Feedback Management System — full-stack app with JWT + role-based access, analytics dashboards, and real-time CRUD",
+    "Feedback Management System — full-stack web with JWT + role-based access, analytics dashboards, and real-time CRUD",
   ],
 
   certifications: [
