@@ -66,7 +66,7 @@ const karanVerma = {
   ],
 
   status: "Building AI-powered & full-stack projects",
-  openTo: ["AI/ML Engineer", "Python Developer", "Software Developer", "Full-Time Roles"],
+  openTo: ["AI/ML Engineer", "Python Developer", "Software Developer"],
 };
 ```
 
