@@ -24,7 +24,7 @@ const karanVerma = {
   title: "Python & AI/ML Developer",
 
   stack: {
-    languages: ["Python", "C++", "JavaScript"],
+    languages: ["Python", "JavaScript"],
     aiAndData: [
       "Generative AI",
       "NLP",
