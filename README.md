@@ -52,7 +52,7 @@ const karanVerma = {
   },
 
   launchedProjects: [
-    "AI Learning, Assessment & Placement Preparation Platform — NLP-powered quiz generation, adaptive assessments, and personalized career recommendations",
+    "AI Interview Preparation Platform – A full-stack web application that uses AI to conduct mock interviews, generate interview questions, and provide personalized performance feedback and reports.",
     "Feedback Management System — full-stack web with JWT + role-based access, analytics dashboards, and real-time CRUD operation",
   ],
 
