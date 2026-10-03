@@ -35,7 +35,7 @@ const karanVerma = {
       "NumPy",
       "Matplotlib",
       "Data Preprocessing",
-      "Data Analysis",
+      "Data Analysis"
     ],
     webDevelopment: ["HTML", "CSS", "React.js", "Node.js", "Express.js", "REST APIs"],
     databases: ["MySQL"],
