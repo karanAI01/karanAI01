@@ -29,7 +29,6 @@ const karanVerma = {
       "Generative AI",
       "NLP",
       "Deep Learning",
-      "PyTorch",
       "Scikit-learn",
       "Pandas",
       "NumPy",
