@@ -38,7 +38,7 @@ const karanVerma = {
     ],
     webDevelopment: ["HTML", "CSS", "React.js", "Node.js", "REST APIs"],
     databases: ["MySQL"],
-    foundations: ["DSA", "OOP", "DBMS", "Operating Systems", "Computer Networks", "Problem Solving"],
+    foundations: ["DSA", "OOP", "DBMS", "Computer Networks", "Problem Solving"],
     tools: [
       "Git",
       "GitBash",
