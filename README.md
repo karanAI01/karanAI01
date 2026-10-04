@@ -36,7 +36,7 @@ const karanVerma = {
       "Data Preprocessing",
       "Data Analysis",
     ],
-    webDevelopment: ["HTML", "CSS", "React.js", "Node.js", "Express.js", "REST APIs"],
+    webDevelopment: ["HTML", "CSS", "React.js", "Node.js", "REST APIs"],
     databases: ["MySQL"],
     foundations: ["DSA", "OOP", "DBMS", "Operating Systems", "Computer Networks", "Problem Solving"],
     tools: [
